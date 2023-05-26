@@ -3,4 +3,6 @@
 # SMARTtoMAIL.py
 This script collects all SMART data of disks installed on a linux system and sends the report via email. This can be scheduled daily or weekly on /etc/cron....
 
-#...
+# montecarlo.py
+The Monte Carlo method is a large class of computational methods based on random sampling to obtain numerical results, this is an easy implementation, you analize a complex bn image and the software trough random samples calculates the total area of the black pixels. This was used to easy test some floor plan area calculations of complex drowings in hundreds of files, the next step not published here was to put, filename, path, total area, calculated:area, on a mysql database.
+
