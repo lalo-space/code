@@ -8,6 +8,11 @@ In my daily usage of Linux for work, I often require an RDP connection to multip
 
 ![immagine](https://github.com/lalo-space/code/assets/61689946/28b0ebec-3b98-4600-9991-79840ba3d00f)
 
+# Wake On Lan magic packet
+Send a WOL packet trought a simple python3 script
+
+![immagine](https://github.com/lalo-space/code/assets/61689946/7ed9ee8f-89ac-469d-b3e1-596bc8bdc84e)
+
 # montecarlo.py
 The Monte Carlo method is a large class of computational methods based on random sampling to obtain numerical results, this is an easy implementation, you analize a complex bn image and the software trough random samples calculates the total area of the black pixels. This was used to easy test some floor plan area calculations of complex drowings in hundreds of files, the next step not published here was to put, filename, path, total area, calculated:area, on a mysql database.
 
